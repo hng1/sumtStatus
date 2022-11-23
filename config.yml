@@ -147,8 +147,8 @@ params:
       description: Most of our core network equipment resides here.
       closed: false
     - name: Frankfurt 2
-      description: This is where most of our rented VPSs residee.
-      closed: false
+      description: This is where most of our rented VPSes reside.
+      closed: false 
     - name: East Midlands - Derbyshire
       description: This is the site where most end-user machines are located and serves as an EDGE.
       closed: false
